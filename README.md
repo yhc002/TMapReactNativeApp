@@ -6,9 +6,9 @@ To use code, put your API key in setSKTMapApiKey() function located in /android/
 
 코드를 활용해보려면 /android/app/src/main/java/com/t_map_app/MapView.java의 setSKTMapApiKey() 함수에 본인의 API key를 사용하면 됩니다.
 
-You can make a API key from https://developers.sktelecom.com/
+You can make a API key from https://openapi.sk.com/
 
-https://developers.sktelecom.com/에서 API key를 발급받을 수 있습니다.
+https://openapi.sk.com/에서 API key를 발급받을 수 있습니다.
 
 Reference:
 
